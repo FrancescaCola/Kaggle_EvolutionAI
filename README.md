@@ -49,3 +49,4 @@ Using the [Meta Kaggle dataset](https://www.kaggle.com/datasets/kaggle/meta-kagg
 ## Link
 
 👉 [Full project on Kaggle](https://www.kaggle.com/code/francescaaaa8/from-accuracy-to-gpt)
+📄 [File_PDF](https://github.com/FrancescaCola/Kaggle_EvolutionAI/raw/main/KAGGLE.pdf)
